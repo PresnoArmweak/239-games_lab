@@ -17,7 +17,7 @@ a project that writes and reads CSV files in PHP
 [239-games_lab](https://github.com/PresnoArmweak/239-games_lab) 
  
 ## Screenshot of homepage 
-![alt](url) 
+![alt](gamesTable.png) 
  
 ## Markdown Cheat Sheet 
 [cheatsheet](https://www.markdownguide.org/cheat-sheet/) ) 
